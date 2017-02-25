@@ -1,5 +1,5 @@
 
-[![Documentation Status](https://readthedocs.org/projects/fineo-client/badge/?version=master-doc)](http://fineo-client.readthedocs.io/en/latest/?badge=master-doc)
+[![Documentation Status](https://readthedocs.org/projects/fineo-client/badge/?version=stable)](http://fineo-client.readthedocs.io/en/latest/?badge=stable)
 
 
 This guide provides information about how to access the Fineo API
